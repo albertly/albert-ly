@@ -1,4 +1,20 @@
+
+Blog template
+https://ryanfitzgerald.github.io/devblog/hello-world/
+https://github.com/kendallstrautman/nextjs-blog-starter
+https://dev.to/tinacms/creating-a-markdown-blog-with-next-js-52hk
+https://www.npmjs.com/package/nextjs-prismic-blog-starter
+https://www.npmjs.com/package/nextjs-mdx-blog-starter
+https://nextjs-mdx-blog-starter.vercel.app/another-blog-post
+https://strapi.io/starters/strapi-starter-next-js-blog
+https://github.com/strapi/strapi-starter-next-blog
+https://dev.to/ixartz/the-ultimate-nextjs-starter-for-your-blog-with-a-free-minimalist-theme-22bk
+
+https://www.grammarly.com/blog/how-to-write-a-blog/?q=otherwritingcategories&utm_source=google&utm_medium=cpc&utm_campaign=11907689263&utm_content=487969900069&utm_term=%2Bblogging&matchtype=b&placement=&network=g&gclid=Cj0KCQiAhP2BBhDdARIsAJEzXlE5G4VwFEjKCrFUdcjF6NquTfVhE3dsDp1UD-HGn1rW9pBJChid8OUaApdYEALw_wcB&gclsrc=aw.ds
 ==================================================================================================
+
+Images
+https://www.freepik.com/
 
 DESCRIPTION:
 
